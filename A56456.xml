@@ -1,0 +1,698 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of Mr. Tho. Whitchurch October the 15th. 1691. at Chalfont St. Peter's. By Henry Parsley, A.M. rector of Hodgerley, in the county of Bucks.</title>
+            <author>Parsley, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56456</idno>
+            <idno type="STC">Wing P559C</idno>
+            <idno type="STC">ESTC R221948</idno>
+            <idno type="EEBO-CITATION">99833192</idno>
+            <idno type="PROQUEST">99833192</idno>
+            <idno type="VID">37667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2193:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of Mr. Tho. Whitchurch October the 15th. 1691. at Chalfont St. Peter's. By Henry Parsley, A.M. rector of Hodgerley, in the county of Bucks.</title>
+                  <author>Parsley, Henry.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. and J. Wilde, for G. Conyers in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With initial imprimatur leaf signed: Ra. Barker.; and dated: Augusti 11 mo. 1692.</note>
+                  <note>With advertisement at end of text.</note>
+                  <note>Copy has stained title page; with print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>[Whitchurch, Thomas, d. 1691] --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37667:1"/>
+            <p>A SERMON Preached at the FUNERAL OF M<hi rend="sup">R.</hi> 
+               <hi>Tho. Whitchurch, <hi>October</hi>
+               </hi> the 15<hi rend="sup">th.</hi> 1691.</p>
+            <p>AT <hi>CHALFONT</hi> St. <hi>PETER</hi>'<hi rend="sup">S.</hi>
+            </p>
+            <p>By <hi>HENRY PARSLEY,</hi> A. M. Rector of <hi>Hedgerley,</hi> in the County of <hi>Bucks.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W<g ref="char:punc">▪</g>
+               </hi> and <hi>J. Wilde,</hi> for <hi>G. Conyers</hi> in <hi>Little-Britain,</hi> 1692.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:37667:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <hi>Ex Aedibus Lambh. Auguſti</hi> 
+                  <date>11<hi rend="sup">mo.</hi> 1692.</date>
+               </dateline>
+               <signed>Ra. Barker.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37667:2"/>
+            <head>TO <hi>Mr.</hi> Richard Whitchurch.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Here preſent you with a Diſ<g ref="char:EOLhyphen"/>courſe which was preached at the Deſire of your Father, and is now publiſhed for the Satisfaction of ſome of your Relations, and as a laſt<g ref="char:EOLhyphen"/>ing Teſtimony of that Eſteem and Re<g ref="char:EOLhyphen"/>ſpects I have for your ſelf. The Sub<g ref="char:EOLhyphen"/>ject is of the greateſt Concernment (how meanly ſoever it may be handled) and if well thought upon and conſidered, would have a mighty Influence upon us in the
+<pb facs="tcp:37667:3"/> due Conduct and Government of our Lives: Which that it may have, is the hearty Prayer of,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Obliged Friend, and Humble Servant, <hi>HENRY PARSLEY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:37667:3"/>
+            <head>A SERMON Preached at the FUNERAL OF <hi>Mr.</hi> THOMAS WHITCHURCH.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REV. XIV. 13.</hi>
+                  </bibl>
+                  <p>And I heard a Voice from Heaven, ſaying unto me, write, Bleſſed are the Dead which die in the Lord from henceforth; yea, ſaith the Spirit, that they may reſt from their Labours, and their Works do follow them.</p>
+               </q>
+            </epigraph>
+            <p>IT is the common and univerſal Judg<g ref="char:EOLhyphen"/>ment of Mankind, a Truth generally re<g ref="char:EOLhyphen"/>ceived, and which cannot be contradict<g ref="char:EOLhyphen"/>ed by any, that to be in ſuch a State or Condition, as is not obnoxious to Pain and Trouble; and where true and real Happineſs
+<pb n="2" facs="tcp:37667:4"/> is to be found, is the true Intereſt and ought to be, nay, is the conſtant Aim and Deſire of all men, as they are reaſonable Creatures; for the Soul of Man can never be ſo far corrupted, as not to deſign in all its deliberate and adviſed Actions, its own Happineſs and Felicity as its End; inſomuch, that thoſe who have made it their Buſineſs to underſtand Humane Nature, have thought it enough barely to intimate and need<g ref="char:EOLhyphen"/>leſs to prove this Point, becauſe it is already by every one confeſs'd, no Notion more com<g ref="char:EOLhyphen"/>mon, or more generally owned, than this, <hi>viz.</hi> That every Man deſires to be free from Pain, Grief and Trouble, from any thing that is uneaſie and vexatious to him, and to live in an Eſtate of Delight and Happineſs. There is another univerſal Judgment of all Mankind, not denied by any man that will give himſelf leave to conſider and weigh the worth of things; and that is this, that the greater, and more durable Delight, is to be choſen before the ſhorter and the leſs; for Delight and Happineſs being in the Opinion of all Men, eſteemed a thing innoffenſively good, of which there can be no noxious or harmful Exceſs, it followeth, that the more of this excellent Con<g ref="char:EOLhyphen"/>dition any man enjoyeth, it is ſo much the better for him, or he is ſo much the happier.
+<pb n="3" facs="tcp:37667:4"/> Now if we look into all thoſe outward things that 'tis poſſible for us to enjoy here in this World, we cannot find Happineſs inſcrib'd upon them, much leſs the greateſt Happineſs, Riches, Honours and Pleaſures here, as they are unſatisfactory to the Soul of Man, when enjoyed; ſo they are uncertain, and eaſily in<g ref="char:EOLhyphen"/>terrupted, and oftentimes intermixt with Trou<g ref="char:EOLhyphen"/>bles, or Evils, of one ſort or other; either by ſome Caſualty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Accident they may be taken from us, or elſe we by Diſeaſes and Sickneſſes made unfit to enjoy them; or at leaſt, we are by Death utterly deprived of them. Now there<g ref="char:EOLhyphen"/>fore, if we will be wiſe, we muſt chuſe ſome<g ref="char:EOLhyphen"/>thing for our Happineſs that is more pleaſura<g ref="char:EOLhyphen"/>ble and ſatisfactory, more laſting and durable, and that is a virtuous Life and Actions, a Life lead according to God's Will and Command, to Right Reaſon and true Religion; and this will even here, amidſt the Troubles and Affli<g ref="char:EOLhyphen"/>ctions of this Life, delight our Souls with ſo<g ref="char:EOLhyphen"/>lid Joys, and go along with us into the World to come, to our unſpeakable Comfort; for (ſaith the Text) <hi>Bleſſed are the Dead which die in the Lord, they reſt from their Labours, and their Works do follow them.</hi> From theſe Words, I ſhall endeavour to deſcribe unto you, the Happineſs of thoſe that die in the Lord, after
+<pb n="4" facs="tcp:37667:5"/> they are delivered from the Burden of the Fleſh, and to prove that in Heaven God hath provided for virtuous men, an Eſtate of Happineſs, that is in all reſpects the greateſt that poſſibly can be imagined or enjoyed. And this you cannot but grant, if you conſider thoſe Parts and Properties of it, which in the Text are either explicitely or implicitely affirmed concerning it. As,
+<list>
+                  <item>I. The Firſt Property thereof, is the Ab<g ref="char:EOLhyphen"/>ſence of Grief, and Security from it: <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eſt from <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Labours.</hi>
+                  </item>
+                  <item>II. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Second <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s the actual Poſſeſſion of Joy and Happineſs; for <hi>Bleſſed,</hi> or hap<g ref="char:EOLhyphen"/>py <hi>are they,</hi> ſaith the Text; which Bleſ<g ref="char:EOLhyphen"/>ſedneſs, without doubt, ſhall be in the higheſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and greateſt Meaſure, ſuitable to the Goodneſs of God, who gives it, and to the Capacities of thoſe who are to receive it.</item>
+                  <item>III. Thirdly and Laſtly, This Bleſſedneſs ſhall be of the greateſt Duration; and this is alſo implied in the Text, for o<g ref="char:EOLhyphen"/>therwiſe there cannot be a Freedom from all Sorrow, if it were poſſible for their Happineſs to be interrupted.</item>
+               </list>
+            </p>
+            <p n="1">
+               <pb n="5" facs="tcp:37667:5"/>1. The firſt Property of this Happineſs, is, that they have the Abſence of Grief, and Secu<g ref="char:EOLhyphen"/>rity from it; <hi>They reſt from their Labours:</hi> This is neceſſarily ſuppoſed to a State of Happineſs, for that cannot be where Pains or Sorrows are mixt, or fill any part of the Soul, there being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Foundation for true and real Happineſs, where the Place is already poſſeſt with Grief: For, as the School-men uſe to argue, that the Privation <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Abſence of Cold, is neceſſarily required for the introducing of Heat; ſo they affirm alſo, that the Abſence of Grief or Sorrow is as neceſſary for the Production of Delight and Pleaſure. Free<g ref="char:EOLhyphen"/>dom from Evil is the Ground or <hi>Baſis</hi> of Delight, and is in many places, of Scripture expreſly aſ<g ref="char:EOLhyphen"/>ſerted to be part of the Happineſs of the Bleſſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Heaven; eſpecially by St. <hi>John,</hi> who we know, in the Goſpel, was a Perſon ſo very dear to our Saviour, that he choſe him out of all his Diſci<g ref="char:EOLhyphen"/>ples, more particularly to ſhew unto him thoſe things that were to come to paſs at the end of the World. He ſaw the Heavens and the Earth fly away from before the Face of God, and there was no place found for them, <hi>Rev.</hi> 20.11. <hi>He ſaw alſo a new Heaven, and a new Earth, and a new Je<g ref="char:EOLhyphen"/>ruſalem coming down from God, richly adorned, as a Bride in expectation of her Bridegroom.</hi> Rev. 21. Ver. 1, 2, 3. <hi>And I heard</hi> (ſaith he) <hi>a great Voice
+<pb n="6" facs="tcp:37667:6"/> out of Heaven, ſaying, Behold the Tabernacle of God is with Men, and he will dwell with them, and they ſhall be his People, and God himſelf ſhall be with them, and be their God: And God ſhall wipe away all Tears from their Eyes, and there ſhall be no more Death, neither Sorrow, nor Crying, neither ſhall there be any more Pain.</hi> Behold, here you have a par<g ref="char:EOLhyphen"/>ticular Revelation of the firſt part of the Happi<g ref="char:EOLhyphen"/>neſs of good men in Heaven, which is a Securi<g ref="char:EOLhyphen"/>ty from Grief; and that ſo clearly and plainly delivered, that there can be no doubt of it. For this came not, like the Oracles of old, in a ſoft Murmur or Whiſper; but he heard a great Voice, and that declaring the Mind of God, not in dark Speech, or Words capable of various Conſtruction, but in plain down-right. Terms, <hi>There ſhall be no more Death, nor Sorrow, nor Crying, nor Pain.</hi> The Words you ſee are general and full, and can be meant of nothing elſe than a perfect Freedom from all Evil. But to diſcourſe a little more particularly of this Point, The Evils to which we are here ſubject, and which in Heaven we ſhall be delivered or freed from, are theſe two, (1.) From the Evil of Sin, and from all Tempta<g ref="char:EOLhyphen"/>tions to it. (2.) From the Evil of Affliction, or Puniſhment for Sin.</p>
+            <p n="1">(1.) From the Evil of Sin, and from all Tem<g ref="char:EOLhyphen"/>ptation to it: We ſhall be there out of a poſſi<g ref="char:EOLhyphen"/>bility
+<pb n="7" facs="tcp:37667:6"/> of ever ſinning any more; free even from all Temptation to it. Now Sin is the great E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> good Men complain of, and are afraid of, and notwithſtanding all their Vigilance and Care, they may ſometimes fall into Sin, of an Offence againſt God; I ſay ſometimes, though very <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ely, for if it be often and generally ſo, they ceaſe to be good Men; but whenever it is, it creates Grief and Trouble to them. The Life of a Chriſtian is a continual Warfare, the Enemies he is to encounter are inſinuating and powerful: He is to fight againſt his own Luſts and Paſſi<g ref="char:EOLhyphen"/>ions, and evil Concupiſcences, to mortifie Pride, to ſubdue Anger, to baniſh the leaſt Thoughts and Motions of Malice and Revenge out of his Mind: He is to arm himſelf againſt ill Examples, and to overcome the Suggeſtions of Satan, who is moſt buſie, and moſt ſubtle in making all the other Temptations, we may meet withal, operative and effectual upon us, by his Seductions and Delu<g ref="char:EOLhyphen"/>ſions, and but too often ſucceſsful. So that where<g ref="char:EOLhyphen"/>as our Souls ought to be conſecrated as a Holy Temple unto the Lord, free from all Pollution of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, from all ſorts of Intemperance, Injuſtice and Uncharitableneſs, and full of Purity, Love and Charity, we do here obtain theſe but in an imper<g ref="char:EOLhyphen"/>fect degree, and they are often interrupted; which makes the good Man cry out with the Apoſtle,
+<pb n="8" facs="tcp:37667:7"/> 
+               <hi>Who ſhall deliver me from this Body of Death?</hi> and the though his Faith, and Courage, and Conſtancy, he daily gets ground of his ſpiritual Enemies; yet it is but by little and little, and he is in perpetual Danger, ſtill being ſurpriz'd into ſome little Com<g ref="char:EOLhyphen"/>pliances, at leaſt contrary to the Will of God, and by degrees perhaps, without his extraordina<g ref="char:EOLhyphen"/>ry Watchfulneſs, and God's Grace, into greater. This is our Portion here, and out Lot is this; but when we arrive unto thoſe Regions of Bliſs and Glory that are above, have once weathered theſe ſhort Storms, prov'd our ſelves good and loyal Subjects to God Almighty, in fighting a<g ref="char:EOLhyphen"/>gainſt his and our Enemies (I mean our irregu<g ref="char:EOLhyphen"/>lar Paſſions and Appetites) and overcoming them too, in great meaſure; if the general Bent and Inclination of our Souls have been to ſerve, and to pleaſe God, He will graciouſly forgive the little Follies and Imperfections of Humane Nature, and receive us into his Favour, never to be for<g ref="char:EOLhyphen"/>feited any more; where we ſhall neither ſin, nor have any Temptation to ſin; but be under an happy Impoſſibility of offending God. Thus ſhall we be freed from the Evil of Sin.</p>
+            <p n="2">(2.) In Heaven we ſhall alſo be free from the Evil of Affliction, or Puniſhment for Sin: For I reckon all the Miſeries of this Life, all the Im<g ref="char:EOLhyphen"/>perfections of it, both of Mind and Body, <hi>viz.</hi> the
+<pb n="9" facs="tcp:37667:7"/> imperfection of our Knowledge, the Diſeaſes and Infirmities of our Bodies to be the Effects of Sin, and a Puniſhment of God for it. Whatſoever is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inful and burthenſome to Nature, is a Fruit of Sin, and Mark of our Rebellion againſt God.</p>
+            <p>Now, as in Heaven there is an abſolute Freedom <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n all Sin, ſo there will be alſo from all Imper<g ref="char:EOLhyphen"/>fection, Pain, and Miſery, which are the proper Attendants and Conſequents of Sin. There ſhall be no Blindneſs in the Mind, no Perverſeneſs in the Will, no Error in the Judgment, no Diſorder <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Affections, no Wearn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs in ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing God. There we may hope to be ſo happy, as to know without Miſtake, to judge without Partiality, and to be Wiſe without Folly: Love is there without Hatred, Jealouſie or Envy; Joy with<g ref="char:EOLhyphen"/>out any Sighing or Sorrow, Praiſes without Com<g ref="char:EOLhyphen"/>plaints, Obedience without Reluctance; in one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, perfect Purity and Holineſs without Spot or Blemiſh to ſully the Glory of it. As this low<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Region of the Air, we ſee is the Place of Clouds and Darkneſs, Thunder and Lightning, Storm and Tempeſt; but to the Dwelling of the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and fived Stars, none of theſe pitchy Va<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours aſcend to obſcure their brightneſs, or trou<g ref="char:EOLhyphen"/>ble their Peace; juſt ſo i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s World the Scene of Miſery and Vexation, Confuſion and Diſor<g ref="char:EOLhyphen"/>der; our Bodies are toſſed with ſeveral Storms,
+<pb n="10" facs="tcp:37667:8"/> and our Souls many times hurried with more vi<g ref="char:EOLhyphen"/>olent Tempeſts, the fierce Guſts of their own Paſſions; but when we aſcend to Heaven, that Region of Light, we ſhall be out of the reach of theſe Troubles, and find our ſelves in a State of perfect Reſt and Joy, without the leaſt Diſ<g ref="char:EOLhyphen"/>guſt to abate our Contentment. Now this Free<g ref="char:EOLhyphen"/>dom from the Sins and Follies, the Troubles and Inconveniencies, the Sickneſſes and Diſeaſes, im<g ref="char:EOLhyphen"/>perfections, that we are here liable to, muſt needs be very delightful.</p>
+            <q>
+               <l>Suave mari magno, turbantibus aequora nautis,</l>
+               <l>E Terra alterius magnum ſpectare laborem.</l>
+            </q>
+            <p>It is a pleaſant thing (ſaith <hi>Lucretius</hi>) for one that has been in a troubleſome and tempeſtuous Sea, and is himſelf arriv'd ſafe on the Land, to look back and behold the Troubles and Dangers thoſe are expoſed to, who are yet toſs'd upon the Waves; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it can be pleaſant for one Man to ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther in Diſtreſs, but a Joy to be in Security, and to view thoſe diſmal Danger which he himſelf hath ſo narrowly eſcaped. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> likewiſe it is pleaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to the Bleſſed in Heaven, after they are themſelves in Safety and Security, to remember all the Inconveniencies, Hazards, and Afflictions which they were here expoſed to
+<pb n="11" facs="tcp:37667:8"/> in this Life, and thoſe eternal Torments they <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re obnoxious to, and which is the miſerable Lot and Portion of others, and they themſelves, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Mercy and Goodneſs of God, have ſo <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rly eſcaped. This very Conſideration muſt needs afford them fit Matter of Praiſe, and Thankſgivings to God, who hath placed them in a bleſſed Eſtate, not obnoxious to any of their <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>mer Griefs, Sickneſſes, or Pains; and hath also redeemed them from the dreadful Region of Darkneſs, and brought them to his own mar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llous Light. This then is the firſt Property of the Happineſs of thoſe that die in the Lord, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Abſence of Grief, and Security from Evil. <hi>They reſt from their Labours.</hi>
+            </p>
+            <p>The Second Property of thoſe that die in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, is the actual Poſſeſſion of Joy and Happineſs; for <hi>Bleſſed,</hi> or happy, <hi>are they</hi> (ſaith the Text.) And this Happineſs, it may be rea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ly ſuppos'd, will principally conſiſt,</p>
+            <p>In the Perfection of our Knowledge, our Underſtandings being enlarged and widend, ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a right Knowledge, and clear Sight and Vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> of God. We here <hi>know but in part,</hi> and ſee through a Glaſs darkly: <hi>But when that which is <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is come, then that which is in part ſhall be <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> away,</hi> 1 <hi>Cor.</hi> 13. <hi>v.</hi> 9, 10, 11. There the Joy of the Righteous ſhall be great from the Poſ<g ref="char:EOLhyphen"/>ſeſſion
+<pb n="12" facs="tcp:37667:9"/> of God himſelf, by the cleareſt Know<g ref="char:EOLhyphen"/>ledge, and pureſt love of his Excellencies. They ſee him as h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, 1 <hi>John</hi> 3. <hi>v.</hi> 2, 3. <hi>i.e.</hi> We ſhall not behold him, or know him as we do now, by Similitudes, Reſemblances, and Expreſſions bor<g ref="char:EOLhyphen"/>rowed from other things (which is all our Na<g ref="char:EOLhyphen"/>tures are here capable to bear;) but by a clear No<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n of him formd in our Minds, whereby they will be fill'd with a Knowledge of him ſo clear, diſtinct and ſtrong, that will even turn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his own Nature Life and Happineſs. The holy Soul ſhall there ſee the King in his Beauty, all the Perfections of that infinitely glorious and bleſſed Being in their Brightneſs and Purity. And this Sight will cauſe the moſt ardent Love, by which there ſhall be an intimate, or vital Union between the Soul and its Happineſs, and from thence will ſpring perfect Delight, <hi>Pſal.</hi> 16.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>For <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Preſence of God there is fulneſs of Joy, and at his Right Hand there are Pleaſures for ever<g ref="char:EOLhyphen"/>more.</hi> And it cannot be otherwiſe, for how pleaſant muſt it needs be, to be delivered from the Imperfections, Errors and Miſtakes concern<g ref="char:EOLhyphen"/>ing Perſons or Things here; nay, of God him<g ref="char:EOLhyphen"/>ſelf: As to Perſons, we ſometimes judge falſly here, and moſt often; ſometimes too ſeverely, at other times too favourably; too ſeverely, ei<g ref="char:EOLhyphen"/>ther through miſtake, not knowing from what
+<pb n="13" facs="tcp:37667:9"/> Principles the Actions of Men proceed, or from want of Charity to derive them from the beſt; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> favourably, out of Partiality or Ignorance: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome Men may ſeem a great deal better than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are, and others a great deal worſe. Now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſtakes on both ſides will be there taken <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, and every one ſhall appear as he is really a himſelf, and be judged accordingly. So that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough a Man ſhould have here the Applauſe of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whole World, yet if he be inwardly bad and vicious, he ſhall be miſerable, and though <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be condemn'd and hated of all, yet if he be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cerely good and vertuous, he ſhall be happy. And then, as to our Judgment of God, in the Diſpenſations of his Providence, we are ſome<g ref="char:EOLhyphen"/>times at a Loſs, how they can conſiſt with a God of infinite Goodneſs and Juſtice; but there the Intricacies of God's Providence ſhall be un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, the Wiſdom, and Juſtice, and Goodneſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> darkeſt Diſpenſations, and moſt un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>chable Actions, ſhall be cleared up. There our Underſtandings ſhall be extraordinarily and ſu<g ref="char:EOLhyphen"/>pernaturally illuminated, and our Knowledge be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>derfully encreas'd and advanc'd, and our Minds <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>dingly pleaſed and delighted, both by the Repetition and new Variety of Contemplation. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here we ſhall be freed from all thoſe Miſts and Vapours that here becloud our Reaſon, and hin<g ref="char:EOLhyphen"/>der
+<pb n="14" facs="tcp:37667:10"/> us from the beſt Exerciſe thereof, the Love of God, and Contemplation of his Perfections, which muſt needs be very delightful: for if the Light of the Sun be ſo pleaſant, that every Morn<g ref="char:EOLunhyphen"/>ing revives the World, and renders it new to us, which was buried in the Darkneſs of the Night; how infinitely pleaſant will the Light of Glory be, that diſcovers the abſolute and univerſal Ex<g ref="char:EOLhyphen"/>cellencies of the Deity; ſuch as are his pure and unſpotted Holineſs, his immenſe Wiſdom and Underſtanding, his Almighty Power, and his infinite Mercy? Oh! how inexpreſſibly great is the Happineſs that proceeds from the Illuminati<g ref="char:EOLhyphen"/>on of a purify'd Soul, when ſuch is the Amia<g ref="char:EOLhyphen"/>bleneſs of God, that his infinite and eternal Feli<g ref="char:EOLhyphen"/>city ariſeth from the Fruition of himſelf, as ours does from the Enjoyment of him; ſo that our Happineſs will be of the ſame Nature, though not in the ſame Degree with God's himſelf. For we ſhall (as our Saviour hath promiſed in the fore-cited Place) ſee God as he is, <hi>i. e.</hi> we ſhall have as real an Enjoyment of him, and as ſenſibly perceive it, as we do now any Good in this World, though the manner of it is not certainly known. Let us therefore conceive with ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves, as well as we can, what his infinite Per<g ref="char:EOLunhyphen"/>fections are, his Wiſdom, his Goodneſs, his Pow<g ref="char:EOLhyphen"/>er, his Unchangeableneſs, his Immortality and
+<pb n="15" facs="tcp:37667:10"/> Bliſs, and then make account there will be a live<g ref="char:EOLhyphen"/>ly Communication between us and all theſe, which will make us Partakers of his Happineſs: We ſhall not only enjoy ſuch good things as flow from his greateſt Favour and Love; but in our Meaſures, and according to ſuch Capacities as he will give us, be what he himſelf is, bear ſome ſimilitude to him in Wiſdom, Goodneſs, and Happineſs; we ſhall be filled with Divine Joys and Pleaſures, by being filled with a great ſenſe of him, and ſtrong Love to him, and a lively Reſemblance of his bleſſed Nature, immutably and immortally, without any Change, and with<g ref="char:EOLhyphen"/>out any End. There, if we live and die good Men, we ſhall enjoy all the Effects of an holy Friendſhip (if I may ſo ſpeak) with infinite good<g ref="char:EOLhyphen"/>neſs, and receive ſuch Communications from his boundleſs Love, as ſhall make us really and ſub<g ref="char:EOLhyphen"/>ſtantially happy, like as he himſelf is. This <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen is one part of the Happineſs of the Bleſſed (and a great one too) <hi>viz.</hi> it conſiſts in the Per<g ref="char:EOLhyphen"/>fection of their Knowledge.</p>
+            <p n="2">2. Another Part of the Happineſs of Heaven conſiſts in the Union of Affection among the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leſſed Inhabitants thereof; a want of which, cauſeth a great part of the Troubles of this Life: Thoſe who ſerve God faithfully here, ſhall then go to the Company of the Prophets and Apoſtles,
+<pb n="16" facs="tcp:37667:11"/> and all the holy Men of God, that have been in all the Ages of the World, to thoſe pure and immaculate Beings, full of Love, to their Ma<g ref="char:EOLhyphen"/>ker; and of Kindneſs and Charity one towards another, no Animoſities or Diviſions ſhall be there, nothing that interrupts their Peace: Pee<g ref="char:EOLhyphen"/>viſhneſs and Paſſion, Miſ-judgings, Miſ-conſtru<g ref="char:EOLunhyphen"/>ctions, hard Cenſures of each others Actions, too much Self-Love, Difference in Judgment, Pride and Emulation imbitters mens Converſe here; but there Corruption on all ſides ſhall be removed, their Judgments and Affections united, and their Diſpoſitions exactly ſuited; they ſhall be free from all manner of Injury, Envy, Suſpition, or Uncharitableneſs. The Prince of Peace reigns in the Heavenly <hi>Jeruſalem,</hi> and preſerves an everlaſt<g ref="char:EOLhyphen"/>ing Serenity and Calmneſs; the mutinous Spirits that rebell'd, were preſently chas'd from thence into this lower Region, where they brought Trouble and Diſorder: there is not, there cannot be the leaſt Jar or Diſcord between thoſe happy Inhabitants, an inviolable Love unites them all, they enjoy without Envy; for infinite Bleſſed<g ref="char:EOLhyphen"/>neſs is not diminiſhed by the Number of Poſſeſ<g ref="char:EOLhyphen"/>ſors, the Inheritance in Light is common to all. Although the Angels are diſtinguiſhed by their ſeveral Orders and Miniſtrations, yet a Chain of holy Love and Charity binds all their Affections
+<pb n="17" facs="tcp:37667:11"/> together; and though the Saints ſhine with dif<g ref="char:EOLhyphen"/>ferent Degrees of Glory, yet, as in a <hi>Chorus</hi> of Muſick, the different Voices make one entire Harmony; ſo there they are all united by the moſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ent Love and Affection: There where there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no croſs Intereſts to contend with, no Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Envy, no Miſtake or Prejudice, no Storms or Tempeſts of unruly Paſſions, or inordinate <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>res to ruffle or diſcompoſe their Happineſs to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eternity. There the Righteous ſhall enter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe bleſſed and peaceful Habitations, where <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e of thoſe Jars and Contentions, with which <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s World is exercis'd, diſturb their Reſt; no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſputes or Controverſies, no Ill-will or want of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rity marr that everlaſting Q<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> which they always enjoy, when they adore the God of Peace, and follow the Lamb, the Prince of Peace. The <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>teſts and Diviſions amongſt us, muſt needs <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke all the Sons of Peace grow weary, and with <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h the Pſalmiſt, that they had W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gs like a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve, that they might fly away, and be at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haſten their Eſcape from the ſtormy Wind <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tempeſt, and make them long for thoſe cool <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Shades of the Grave, and for that Peace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is in the Region beyond it, that Peace which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never be interrupted; which b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Property of the Happineſs of the bleſſed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> That it ſhall be of the lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>geſt Duration, and
+<pb n="18" facs="tcp:37667:12"/> that is Eternal and Everlaſting; without which, it could not indeed be the greateſt Happineſs: for ſuch a Life cannot be the moſt happy, which is not ſecure of its own Eternity. If therefore a<g ref="char:EOLhyphen"/>ny thing be deſign'd for the full Satisfaction of Humane Nature, it muſt be a Delight that ſhall laſt for ever, and that is ſuch, that it muſt needs be ſatisfactory, ſeeing no man can wiſh for more than eternal Happineſs. The moſt full Enjoyment of all the good Things this World affords, is nor to be called or accounted Happineſs, not only be<g ref="char:EOLhyphen"/>cauſe they are vain and empty of true Satisfacti<g ref="char:EOLhyphen"/>on, but alſo becauſe not permanent and laſting; they are ſoon gone, ſoon decay'd, and quickly parted withal; <hi>Riches are not for ever, neither doth a Crown endure to all Generations,</hi> Prov. 27.24. but Heaven is an Inheritance as ſafe as great. Here we are ſubject to Time, that carries us and all our Goods down its ſwift Stream; but there Eternity, that is fixt and unchangeable, embraces us in its Boſome. As God's liberal Hand be<g ref="char:EOLhyphen"/>ſtows, ſo his Powerful preſerves our Happineſs; the Bleſſed ſhall ſing everlaſting Hymns of Glory, and Songs of Thankſgiving to the great Creator, Redeemer and Sanctifier, who hath pre<g ref="char:EOLhyphen"/>pared and purchaſed that Felicity for them, and hath brought them to the ſecure Poſſeſſion of it. But when we have ſaid all we can of the Happi<g ref="char:EOLhyphen"/>neſs
+<pb n="19" facs="tcp:37667:12"/> of Heaven, we muſt acknowledge that we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> infinitely ſhort of what it is in it ſelf. It is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pared in Scripture to a Crown, a Kingdom, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>aſt; but is indeed much more than all this: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Kingdom without Cares, a Crown with<g ref="char:EOLhyphen"/>out a Croſs, a Feaſt without Satiety. It is call<g ref="char:EOLhyphen"/>ed by theſe Names, becauſe theſe are the great<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things this lower World hath. Theſe Words amongſt us ſound high, and ſpeak Power, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>our, and Plenty, and Pleaſures, and what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> World calls good, and therefore Heaven is repreſented by ſuch things which we underſtand and regard. God Almighty ſaw our Infirmity, that we cannot well Judge of Delights that are purely Intellectual and Spiritual, and hath ſo far <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>deſcended to us, as to draw us ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Sc<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Heavenly Joys in the Shapes and Figures of our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> earthly Pleaſures; ſuch are th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſt<g ref="char:EOLhyphen"/>ings, the Poſſeſſion of Riches, Honours and the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, but then theſe are but low and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hort Re<g ref="char:EOLhyphen"/>preſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tions of the things themſelve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Heaven, as the Tabernacle and Temple a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g the Jews were, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the other World. They were Images in little, but came greatly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of what they repreſented <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe things <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heaven; for without any ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deceitful <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gs, there ſhall be abundance <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Peace, and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſs of Joy, an exceeding and eternal weight
+<pb n="20" facs="tcp:37667:13"/> of Glory. Finally, In the preſent State, we are not capable to receive the full Knowledge of Heaven; what we underſtand, is infinitely de<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able; but th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt glorious part is ſtill undiſ<g ref="char:EOLhyphen"/>cover<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. The Apoſtle tells us, in the Firſt E<g ref="char:EOLhyphen"/>piſtle to the <hi>Corinthians, Chap.</hi> 2. <hi>Ver.</hi> 9. <hi>Eye hath not ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, our Ear heard, neither hath i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> entred into the Heart of Man, to conceive what God hath prepar<g ref="char:EOLhyphen"/>ed for thoſe that love him.</hi> We have reaſon to break forth in the Language of the Pſalmiſt, and ſay, <hi>How great is thy Goodneſs, O Lord! which th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d up for them that fear thee.</hi> We have nothing elſe to do but to ſupply the Defects of our Underſtanding with an holy Admiration, and make good uſe of what is diſcovered to us. As,</p>
+            <p n="1">1. From what has been ſaid, we may learn this great Truth, that Heaven alone is the Place of Happineſs and that tis only the good and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſtian, that ſhall be<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, only ſuch w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Works do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; not that the beſt Works of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Men <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any ſuch Condition; but that theſe Works which alſo are perſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by the Grace and Aſſiſtance of God, do qualifie them for that Happineſs which is purchaſed for them by the Merits of Jeſus Chriſt. If ever therefore we expect to arrive at Heaven and Happineſs as our
+<pb n="21" facs="tcp:37667:13"/> End, we muſt endeavour after Holineſs and Righteouſneſs, as the V<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> through Jeſus Chriſt our Lord; and let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing divert us from it, neither the Hopes of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, not the Smiles or Trowns of this World. If this Principle be but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nly fixed in us through God's Grace, the greateſt Difficulties, not the hardeſt Labours <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill ſcarcely diſcourage our Reſolution, or hin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our Endeavours to obtain it: If it be diffi<g ref="char:EOLhyphen"/>cult for Mankind to reduce their natural Inclina<g ref="char:EOLunhyphen"/>tions to a Compliance with Chriſt's Precepts, to deny the inordinate Appetite of ſenſual Pleaſure, to deny unlawful Gains and Intereſts to the De<g ref="char:EOLhyphen"/>ſire of Wealth and Riches, to mortifie Pride, to ſubdue Malice, Anger, Revenge, and other ſinful paſſions; to retain Piety towards God in a pro<g ref="char:EOLhyphen"/>fane and wicked Age; Truth and Juſtice to<g ref="char:EOLhyphen"/>wards Men in a deceitful and injurious VVorld: if it be difficult thus to do, yet he that hath <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nly fix'd this Principle in his Mind, that this is the Way to Heaven, and Heaven alone the Place of Happineſs, will attempt to make his way thither, through theſe or any other Difficul<g ref="char:EOLhyphen"/>ties, in the View of the Glory ſet before him. For,</p>
+            <p n="2">2. A Proſpect of this Happineſs ſhould recon<g ref="char:EOLhyphen"/>cile our Minds to any Condition, to any Circum<g ref="char:EOLhyphen"/>ſtances of Life, which the Divine Providence
+<pb n="22" facs="tcp:37667:14"/> may think fit to bring us to. We are to re<g ref="char:EOLhyphen"/>member, that God ſent us into the VVorld for Religion, we are but to paſs through our pleaſant Fields, or our hard Labours; but to lodge a little while in our fine Fields, or our meaner Cottages; but to bait in the way at our full Tables, or with our ſpare Diet. Let us not therefore have any great Eſteem for the things of this VVorld; there is no other reaſon why they ſhould be loved or valued by us; but as they conduce to our chief End, which is God and his Glory, and our Happineſs and Felicity. VVe ſhould here imitate the Traveller, who, when fix'd in his Determination of arriving at ſome certain Place, if he meet with two or three ſeveral VVays, deſires not <hi>this</hi> more than <hi>that,</hi> but on<g ref="char:EOLhyphen"/>ly as <hi>this</hi> may more readily bring him to his Reſt: He cares not much whether the VVay be plain or hilly, whether it lead to the Right Hand, or the Left, all is indifferent, ſo it brings him whither he would go. After the like manner we are to behave our ſelves in the Uſe of the things of this World; we are not much to love the good things thereof, nor fear the Evils of it; but free from both, make only choice of that which leads to our Salvation, and fits us for that Country we are ſeeking: If Po<g ref="char:EOLhyphen"/>verty or Meanneſs brings us to God, we are to
+<pb n="23" facs="tcp:37667:14"/> embrace it with both Arms, and eſteem it; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Riches or Honours would withdraw us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, we muſt trample them under foot, and caſt them from us; if Sufferings and Af<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions, Diſgraces and Neglect, the unjuſt Re<g ref="char:EOLhyphen"/>pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches and Calumnies of men, aſſiſt us to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heaven, we are to rejoyce thereat, and to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ive them with all Submiſſion and Willing<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> We are neither to deſire or abhor the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d or evil in this Life, but as it unites or ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es us from God, as it brings us nearer to, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drives us farther from our ſupream Happi<g ref="char:EOLhyphen"/>neſs, always remembring that compleat Happi<g ref="char:EOLhyphen"/>neſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s only there to be expected, where our <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ey ends. And who would not contented<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> go through a Priſon to a Palace, a barren Wil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſs, to a Land of Promiſe? Who would be uneaſie under all that Load of Afflictions that may befall him here, by the Malice and Contri<g ref="char:EOLhyphen"/>vance of evil men? Nay, who would not en<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the Croſs, and deſpiſe the Shame, for the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that is ſet before him? Did we always thus act, how unmov'd would the Rumours of Wars, and Devaſtations leave us, which invade and agitate mens Breaſts, and diſturb their moſt pleaſant and compos'd Hours? We ſhould let him alone to rule the World that made it; to take care of us, who hath engag'd it, whoſe
+<pb n="24" facs="tcp:37667:15"/> Providence watcheth over us, and whoſe Eter<g ref="char:EOLhyphen"/>nal Happineſs awaits us. Were we but once arriv'd at a true Indifferency of Mind, Acquieſ<g ref="char:EOLhyphen"/>cence in, and ready Compliance with the Infi<g ref="char:EOLhyphen"/>nite VViſdom, Power and Goodneſs of God, and feared <hi>Doing</hi> inſtead of <hi>Suffering</hi> Evil; how ſerene! how full of Tranquility-ſhould we be amidſt the Changes, Tumults, and Commoti<g ref="char:EOLhyphen"/>ons of this ſtormy Region, this uncertain State, and how abſolut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly reſign'd to the VVill of God in all things?</p>
+            <p n="3">3. From what hath been ſaid concerning the Nature of the Ha <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ineſs of Heaven: This ſhould <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>en us to endeavour after that Frame and Temper of Mind here, thoſe good Diſpoſi<g ref="char:EOLhyphen"/>tions of Soul, as may fit us for the Enjoyment of it. For inſtance, Does the Happineſs of Heaven conſiſt in the Perfection of your Know<g ref="char:EOLhyphen"/>ledge? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eg of God, that he would open your Eyes here, enlighten your Underſtandings, and tranſlate you from Darkneſs to Light. Believe and conſider, that wilful and groſs Ignoran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e here, is but a bad Preparation for Perfection of Knowledge hereafter, and that thoſe are not like<g ref="char:EOLhyphen"/>ly to come to Heaven, that will not be at the P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s to underſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very firſt Principles of their Religion. And this, as it will put you upon endeavouring after Knowledge, ſo it will
+<pb n="25" facs="tcp:37667:15"/> ſtir you up to practice and live up to the Know<g ref="char:EOLhyphen"/>ledge of thoſe things, which God hath been pleaſed moſt clearly and plainly to reveal in his VVord; for without Practice, all the Know<g ref="char:EOLhyphen"/>ledge in the VVorld ſignifies nothing, and the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y way to encreaſe in Knowledge, is to pra<g ref="char:EOLhyphen"/>ctice what we already know; to him that hath ſhall be given, is as true of Knowledge as of G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce. Further, Does the Happineſs of Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> conſiſt in a clear Knowledge and Sight of God, and in an Imitation of his Perfections? Then endeavour to turn away your Eyes from beholding Vanities: Make it your Buſineſs to follow after Holineſs, without which, no man <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all ſee the Lord. Labour to ſee God here, that to you may be the fitter to ſee and enjoy him h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eafter; to ſee him in his Works, to ſearch af<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, behold and admire that infinite Power, Wiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m and Goodneſs, which are viſible and legible <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the VVorks of Creation and Providence; but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re eſpecially, ſtudy to ſee and know God as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath reveal'd himſelf in his VVord, to ſee his Holineſs in his Precepts, his Juſtice in his Threat<g ref="char:EOLhyphen"/>nings, his Grace and Goodneſs in his Promiſes; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo by a Sight of the Righteouſneſs and Equi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of his Commands, you may be brought to an <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rvation of, and an hearty Compliance with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Divine Will here, and be in a good Capacity
+<pb n="26" facs="tcp:37667:16"/> for ever to adore, admire and imitate the Di<g ref="char:EOLhyphen"/>vine Perfections hereafter. Finally, Does the Happineſs of Heaven conſiſt in a Union of Af<g ref="char:EOLhyphen"/>fections amongſt the bleſſed Inhabitants there<g ref="char:EOLhyphen"/>of? Let us then endeavour to remove far from us, all Anger, Malice and Revenge, all thoſe hateful Qualities that will render us ſit only for the Converſe of wicked and apoſtate Spirits, and endeavour after ſuch calm and quiet, ſuch charitable and peaceable Tempers, as may make us with infinite Delight, when we go away from this wrangling and contentious World, conſeit our ſelves with the bleſſed Inhabitants of the other.</p>
+            <p>I ſhould now conclude, had not Cuſtom made it almoſt neceſſary to ſay ſomething upon theſe Occaſions, which I ſhall do very briefly of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deceaſed Friend and Neighbour. He <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take his Sickneſs very patiently, in that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a perfect Reſignation of himſelf <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God: He was very ſenſible of his approach<g ref="char:EOLunhyphen"/>ing End, and earneſtly deſired to receive <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sacrament of the Lords Supper, which he did with great Devotion. He expreſs'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf very charitably of all, and ſaid, He ow'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Man the leaſt ill will; but was in perfect Charity with all the World, forgiving all thoſe that any ways offended him, and if he had
+<pb n="27" facs="tcp:37667:16"/> given Offence to any, deſiring the like from them; relying upon the Merits of Chriſt for the Pardon of his Sins, and the Salvation of his Soul. I might perhaps ſay a great deal more; but I love not to ſpeak much on theſe Occaſions, and what I have here to add, is only this, That He was a kind Husband to his Wife, an indul<g ref="char:EOLhyphen"/>ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Father to his Children, and a good Neigh<g ref="char:EOLhyphen"/>bour to his Friends and Acquaintance. But to conclude, That which now only remains to be done, is from this Inſtance of Mortality here be<g ref="char:EOLhyphen"/>fore us (whoſe Soul we hope is at reſt with God) earneſtly to exhort you to think on your own Mortality, and to prepare for Immortality: In this ſhort Life, to prepare for an endleſs one, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it may be happy. This Life is in it ſelf <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worth any thing; but the right uſe of it is o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ite Importance. It is like the very firſt ſtep <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght or wrong Way, tending to a Palace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Priſon, which indeed is a ſmall thing in it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but its Efficiency and Tendency is of as mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Concern as the whole Way and End it ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. Which Preparation, is in ſhort, by a For<g ref="char:EOLhyphen"/>ſaking all former Sin and Wickedneſs, which God will pardon for Chriſt's Sake, and an Em<g ref="char:EOLhyphen"/>bracing of Vertue and Goodneſs.</p>
+            <p>This is that only which will be accepted of God and not bare Repentance, without Amend<g ref="char:EOLhyphen"/>ment,
+<pb n="28" facs="tcp:37667:17"/> unleſs it be where God ſees good Fruits would follow. We are to endeavour to forſake all Sin, and ſincerely to practiſe our moſt excel<g ref="char:EOLhyphen"/>lent Religion; live Soberly, Righteouſly, and Godly, which will bring here with it God<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bleſſing, with the Peace and Satisfaction of a good Conſcience, and qualifie us for that Hap<g ref="char:EOLhyphen"/>pineſs which Chriſt hath purchaſed for us, and will give to all ſuch as are <hi>meet</hi> to be Partakers of it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Some Books Printed for <hi>George Conyers,</hi> in <hi>Little-Britain.</hi>
+            </head>
+            <p>A Guide to young Communicants: Or plain Directions ſo the Receiving of the Lord's Supper. In twelve Queſti<g ref="char:EOLhyphen"/>ons and Anſwers; with Meditations and Prayers, <hi>&amp;c.</hi> Price <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>A Guide to the Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar: Or, A Preparation for a worthy Re<g ref="char:EOLhyphen"/>ceive, of the Lord's Supper; with Meditations and Prayers for every Day of the Week Price 1 <abbr>s.</abbr>
+            </p>
+            <p>The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man's Path way to Heaven: Wherein a Man may ſee plainly whether he ſhall be ſaved or damned. By <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</hi>
+            </p>
+            <p>A Tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atiſe of Prayer. By <hi>George Bright,</hi> Dean of St. <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ph.</hi> Rector of <hi>Loughborough,</hi> and Chaplain in Ordinary to His Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <pb facs="tcp:37667:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
